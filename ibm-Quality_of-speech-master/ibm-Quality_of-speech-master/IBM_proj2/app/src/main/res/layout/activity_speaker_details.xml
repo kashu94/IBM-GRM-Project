@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout tools:context=".speakerDetails" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/x" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+
+    <!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+
+    <!-- xmlns:tools="http://schemas.android.com/tools"-->
+
+    <!-- android:layout_width="match_parent"-->
+
+    <!-- android:layout_height="match_parent"-->
+
+    <!-- android:layout_margin="10dp"-->
+
+    <!-- android:gravity="center"-->
+
+    <!-- android:orientation="vertical"-->
+
+    <!-- tools:context=".MainActivity">-->
+
+    <!-- <LinearLayout-->
+
+    <!-- android:layout_width="match_parent"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:orientation="horizontal">-->
+
+    <!-- <TextView-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="2"-->
+
+    <!-- android:text="Country"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- <TextView-->
+
+    <!-- android:id="@+id/lol1"-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="3"-->
+
+    <!-- android:text="Country"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- </LinearLayout>-->
+
+    <!-- <LinearLayout-->
+
+    <!-- android:layout_width="match_parent"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:orientation="horizontal">-->
+
+    <!-- <TextView-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="2"-->
+
+    <!-- android:text="State"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- <TextView-->
+
+    <!-- android:id="@+id/lol2"-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="3"-->
+
+    <!-- android:text="State"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- </LinearLayout>-->
+
+    <!-- <LinearLayout-->
+
+    <!-- android:layout_width="match_parent"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:orientation="horizontal">-->
+
+    <!-- <TextView-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="2"-->
+
+    <!-- android:text="City"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- <TextView-->
+
+    <!-- android:id="@+id/lol3"-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="3"-->
+
+    <!-- android:text="City"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- </LinearLayout>-->
+
+    <!-- <LinearLayout-->
+
+    <!-- android:layout_width="match_parent"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:orientation="horizontal">-->
+
+    <!-- <TextView-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="2"-->
+
+    <!-- android:text="PIN"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- <TextView-->
+
+    <!-- android:id="@+id/lol4"-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="3"-->
+
+    <!-- android:text="PIN"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- </LinearLayout>-->
+
+    <!-- <LinearLayout-->
+
+    <!-- android:layout_width="match_parent"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:orientation="horizontal">-->
+
+    <!-- <TextView-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="2"-->
+
+    <!-- android:text="Locality"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- <TextView-->
+
+    <!-- android:id="@+id/lol5"-->
+
+    <!-- android:layout_width="0dp"-->
+
+    <!-- android:layout_height="wrap_content"-->
+
+    <!-- android:layout_weight="3"-->
+
+    <!-- android:text="PIN"-->
+
+    <!-- android:textSize="25sp" />-->
+
+    <!-- </LinearLayout>-->
+
+    <!--</LinearLayout>-->
+
+    <EditText
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/enterName"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.283"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.214" />
+
+    <TextView
+        android:id="@+id/text_view_date"
+        android:layout_width="300sp"
+        android:layout_height="50sp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btnChangeLangView2"
+        app:layout_constraintVertical_bias="0.485" />
+
+    <EditText
+        android:id="@+id/Topic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/enterTopic"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.273"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.351" />
+
+    <Button
+        android:id="@+id/btnlocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/getLocation"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.195"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.713" />
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/address" app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.133" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toBottomOf="@+id/btnlocation" android:layout_marginTop="56dp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="118dp"
+        android:text="@string/next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.547"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.902" />
+
+    <Button
+        android:id="@+id/btnChangeLangView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch Language"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.061"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

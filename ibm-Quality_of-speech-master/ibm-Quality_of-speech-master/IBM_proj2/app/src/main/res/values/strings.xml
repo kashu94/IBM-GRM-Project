@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IBM Project</string>
+    <string name="app_title">Quality of Speech</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter">ENTER SPEAKER DETAILS</string>
+    <string name="enterName">ENTER NAME</string>
+    <string name="enterTopic">ENTER TOPIC</string>
+    <string name="getLocation">GET LOCATION</string>
+    <string name="next">NEXT</string>
+    <string name="recordAndPlay">Record and Play</string>
+    <string name="record">RECORD</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="stopPlaying">STOP PLAYING RECORDING</string>
+    <string name="yellowText">PLEASE CLICK ON THE CRUTCH WORDS</string>
+    <string name="slightly">SLIGHTLY</string>
+    <string name="actually">ACTUALLY</string>
+    <string name="definitely">DEFINITELY</string>
+    <string name="basically">BASICALLY</string>
+    <string name="certainly">CERTIANLY</string>
+    <string name="probably">PROBABLY</string>
+    <string name="viewGraph">VIEW GRAPH</string>
+    <string name="total">Total number of crutch words used:</string>
+    <string name="next1">NEXT</string>
+</resources>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "356256129698",
+    "firebase_url": "https://firstapp-52.firebaseio.com",
+    "project_id": "firstapp-52",
+    "storage_bucket": "firstapp-52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356256129698:android:f553c132e408c98cfdadfb",
+        "android_client_info": {
+          "package_name": "com.codekavya.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356256129698-65dru9alrcblg0alaekdgvjtuav4l0le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCDQ4-8gM_a6XMgRYPikfXNIddS830LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356256129698-65dru9alrcblg0alaekdgvjtuav4l0le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356256129698:android:2f0d4554f4360925fdadfb",
+        "android_client_info": {
+          "package_name": "com.example.ibm_proj2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356256129698-pfob9id4qejf1glcginfiuj97jpogr44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibm_proj2",
+            "certificate_hash": "e54d8eb9faa0e0bc3e4e8f89efe3c0b3136dbdbb"
+          }
+        },
+        {
+          "client_id": "356256129698-af3p0mcqf45tro6ifdrd5ghuera82rsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibm_proj2",
+            "certificate_hash": "30c356fcaddea1a48d824bbfe29d8caea39f1ce1"
+          }
+        },
+        {
+          "client_id": "356256129698-do4vej3p67et7llub39edcn2h4metr9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibm_proj2",
+            "certificate_hash": "d6fb75431604937721b12265e74d4583ff6db7d8"
+          }
+        },
+        {
+          "client_id": "356256129698-65dru9alrcblg0alaekdgvjtuav4l0le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCDQ4-8gM_a6XMgRYPikfXNIddS830LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356256129698-65dru9alrcblg0alaekdgvjtuav4l0le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356256129698:android:43bbb79469c5db5efdadfb",
+        "android_client_info": {
+          "package_name": "com.example.quality_speech_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356256129698-65dru9alrcblg0alaekdgvjtuav4l0le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCDQ4-8gM_a6XMgRYPikfXNIddS830LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356256129698-65dru9alrcblg0alaekdgvjtuav4l0le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

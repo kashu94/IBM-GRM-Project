@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IBM Project</string>
+    <string name="app_title">ಮಾತಿನ ಗುಣಮಟ್ಟ</string>
+    <string name="welcome">ಸ್ವಾಗತ</string>
+    <string name="enter">ಸ್ಪೀಕರ್ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="enterName">ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="enterTopic">ವಿಷಯವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="getLocation">ಸ್ಥಳವನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="next">ಮುಂದಿನದು</string>
+    <string name="recordAndPlay">ರೆಕಾರ್ಡ್ ಮತ್ತು ಪ್ಲೇ</string>
+    <string name="record">ರೆಕಾರ್ಡ್</string>
+    <string name="stop">ನಿಲ್ಲಿಸಿ</string>
+    <string name="play">ಪ್ಲೇ</string>
+    <string name="stopPlaying">ಪ್ಲೇ ನಿಲ್ಲಿಸಿ</string>
+    <string name="yellowText">ಊರುಗೋಲು ಪದಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+    <string name="slightly">ಮೂಲತಃ</string>
+    <string name="actually">ವಾಸ್ತವವಾಗಿ</string>
+    <string name="definitely">ಖಂಡಿತವಾಗಿ</string>
+    <string name="basically">ನಿಜವಾಗಿಯೂ</string>
+    <string name="certainly">ಕೆಲವು</string>
+    <string name="probably">ಅದಕ್ಕಾಗಿ</string>
+    <string name="viewGraph">ವೀಕ್ಷಿಸಿ ಗ್ರಾಫ್</string>
+    <string name="total">ಊರುಗೋಲು ಪದಗಳನ್ನು ಒಟ್ಟು ಸಂಖ್ಯೆ ಬಳಸಲಾಗುತ್ತದೆ:</string>
+    <string name="next1">ಮುಂದಿನದು</string>
+</resources>
